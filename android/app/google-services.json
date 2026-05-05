@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "466063940326",
+    "project_id": "dbcrudperfumeria0330",
+    "storage_bucket": "dbcrudperfumeria0330.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466063940326:android:424e71cb10904b7da1f927",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQenZCVKD4qyOTInICYYcJMMe8i2uFWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466063940326:android:72c0aba4848eb8e7a1f927",
+        "android_client_info": {
+          "package_name": "com.example.perfumeria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQenZCVKD4qyOTInICYYcJMMe8i2uFWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466063940326:android:5f05a698b4d2d3f6a1f927",
+        "android_client_info": {
+          "package_name": "com.example.perfumery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQenZCVKD4qyOTInICYYcJMMe8i2uFWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "dbcrudperfumeria0330",
+          "appId": "1:466063940326:android:424e71cb10904b7da1f927",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "dbcrudperfumeria0330",
+          "configurations": {
+            "android": "1:466063940326:android:424e71cb10904b7da1f927",
+            "web": "1:466063940326:web:6270eb4cbf778ae2a1f927"
+          }
+        }
+      }
+    }
+  }
+}
